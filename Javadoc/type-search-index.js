@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SortedLinkedListImp","l":"Main"},{"p":"SortedLinkedListImp","l":"SortedLinkedList"}];updateSearchResults();
