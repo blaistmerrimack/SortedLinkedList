@@ -23,3 +23,16 @@ Javadoc html files are included for each class under SortedLinkedList/javadoc/So
 ```
 javadoc -d SortedLinkedListImp\javadoc SortedLinkedListImp
 ```
+
+## Examples/Tests
+Run the program and enter the following inputs to see the sorted linked list output.
+```
+Input: 10
+Resulting Linked List: [10]
+Input: 12
+Resulting Linked List: [10,12]
+Input: 5
+Resulting Linked List: [5,10,12]
+Input: 5
+Resulting Linked List: [5,5,10,12]
+```
